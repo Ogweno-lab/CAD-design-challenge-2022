@@ -3,13 +3,15 @@
 
 <hr>
 
-This repo contains material for design of a vehicle engine competition for SES projects 2022
+This repo contains material for design of a vehicle engine competition for SES projects 2022. Our model is loosely based on the Engine specs of the 2021 MustangGT V8 engine. 
 
 ## Instructions
 <hr>
 
-### Team Registration
-Each team should have at most 4 members. 
+### Team Members
+Allan Okeyo
+Ogweno Emmanuel
+Mandela
 
 ### Goals
 The teams have to design, draw CAD drawings, perform analysis(stress and vibrations), assemble and animate
