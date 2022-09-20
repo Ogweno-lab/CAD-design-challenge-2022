@@ -9,9 +9,9 @@ This repo contains material for design of a vehicle engine competition for SES p
 <hr>
 
 ### Team Members
-Allan Okeyo
-Ogweno Emmanuel
-Mandela
+1. Allan Okeyo
+2. Ogweno Emmanuel
+3. Mandela
 
 ### Goals
 The teams have to design, draw CAD drawings, perform analysis(stress and vibrations), assemble and animate
